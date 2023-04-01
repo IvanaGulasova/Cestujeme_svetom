@@ -5,12 +5,16 @@
 }
 
 .block {
-	border: 2px solid #F0F0F0;
-	background-color: #787878;
+	border: 2px solid #383838;
+	background-color: #383838;
 	color: white;
 	font-size: 20px;
 	text-align: left;
 	padding: 30px;
+}
+
+.block a {
+	text-decoration: none;
 }
 
 .uvod {
@@ -67,4 +71,22 @@ td img {
 	gap: 5px;
 	margin-left: auto;
 	margin-left: auto;
+}
+
+ul {
+	padding: 15px 40px 20px 40px;
+	color: #B0B0B0;
+	list-style-type: square;
+}
+
+.paticka {
+	text-align: center;
+	border: 2px solid #383838;
+	background-color: #383838;
+	padding: 30px;
+}
+
+a {
+	color: white;
+	font-size: 20px;
 }

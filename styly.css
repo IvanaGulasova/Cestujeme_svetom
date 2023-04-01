@@ -87,8 +87,13 @@ a {
 }
 
 .paticka {
-	text-align: center;
-	border: 2px solid #F0F0F0;
-	background-color: #787878;
+	text-align: left;
+	border: 2px solid #383838;
+	background-color: #383838;
 	padding: 30px;
+  color: white;
+}
+
+.paticka p {
+  margin: 0 50px;
 }
